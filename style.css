@@ -1,0 +1,136 @@
+body{
+    background-image: url(hellzine.jpg);
+    background-attachment: fixed; 
+    background-size: cover;
+    margin: 40px;
+   
+}
+
+h1{
+    color: ghostwhite;
+    text-align: center;
+    font-family: Worn Manuscript Rough;
+    font-size: 50px;
+    
+    
+    
+}
+
+
+
+
+p{
+    color: white;
+    font-size: 150%;
+    height: 250px;
+    width: 350px;
+    
+    
+    
+}
+
+img{ 
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    
+
+
+
+    
+    
+}
+.desenfoque:hover{
+    filter: blur(3px);
+}
+
+.desenfoque:hover{
+    filter: blur(3px);
+}
+
+.desenfoque:hover{
+    filter: blur(3px);
+}
+
+.desenfoque:hover{
+    filter: blur(3px);
+}
+
+
+
+
+
+
+
+
+
+.zoom :hover{
+    transform: scale(1.5);
+
+}
+
+
+
+
+ 
+#main-container{
+    padding-top: 200px;
+    text-align: center;
+    
+}
+
+.btn{
+    text-decoration: none;
+    padding:20px 15px ;
+    display: inline-block;
+    border-radius: 3px;
+    
+    
+    
+}
+
+.btn-white{
+    color: black;
+    background-color: white;
+    
+}
+
+.btn-white:hover{
+    background-color: rgb(141, 142, 150);
+}
+
+
+.sidebar{
+    position: absolute;
+    width: 200px;
+    height: 100%;
+    background: black;
+    
+    
+}
+
+.sidebar ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar a{
+    
+    display: block;
+    color: white;
+    text-decoration:none;
+    padding: 20px;
+    font-family:Worn Manuscript Rough ;
+
+}
+.sidebar li{
+    border: 1px solid #757176;
+}
+.sidebar li:hover{
+    background: #171617;
+}
+
+

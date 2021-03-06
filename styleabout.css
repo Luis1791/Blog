@@ -1,0 +1,22 @@
+body{
+    background-image: url(luis.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+    margin: 40px;
+}
+
+h1{
+    color: #EFF0EB;
+    text-align: center;
+    font-family:Worn Manuscript Rough ;
+    font-size: 50px;
+
+}
+
+p{
+    color:#EFF0EB ;
+    height: 250px;
+    width: 350px;
+    font-size: 250%;
+    font-family: Worn Manuscript Rough;
+}
